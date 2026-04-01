@@ -90,20 +90,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-</p>
-
----
-
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical" />
-</p>
-
----
-
 ## 📫 Contact Me
 - 📧 Email: deepaksenthil005@gmail.com  
 - 📍 Location: Madurai, India  
